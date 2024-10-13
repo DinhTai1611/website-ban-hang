@@ -1,0 +1,53 @@
+﻿@model SV20T1020544.DomainModels.UserAccount
+@{
+
+}
+<div class="col-md-5 offset-md-3 container" style="background: rgb(180, 180, 180); margin-left:300px; border-radius:4px; height:400px;">
+    <hr class="mb-5">
+    <!-- form card change password -->
+    <div class="card card-outline-secondary">
+        <div class="card-header">
+            <h3 class="text-center mb-0"><b>Đổi mật khẩu</b> </h3>
+        </div>
+        <br />
+        <div class="card-body">
+            <form class="form" action="~/Account/ChangePassword" method="post">
+                @Html.AntiForgeryToken()
+                @{
+                    var userData = User.GetUserData();
+                    if (userData != null)
+                    {
+                        <input class="form-control" type="hidden" name="userName" value="@userData.Email" readonly />
+                        <div class="form-group">
+                            <label >Nhập Mật khẩu cũ:</label>
+                            <input type="password" class="form-control" name="oldPassword">
+                            @Html.ValidationMessage("oldPassword", new { @class = "text-danger" })
+                        </div>
+                        <div class="form-group">
+                            <label for="inputPasswordNew">Mật khẩu mới:</label>
+                            <input type="password" class="form-control" name="newPassword">
+                            <span class="form-text small text-muted">
+                            </span>
+                        </div>
+                        <div class="form-group">
+                            <label >Nhập lại Mật khẩu mới:</label>
+                            <input type="password" class="form-control" name="confirmPassword">
+                            <span class="form-text small text-muted">
+                                @Html.ValidationMessage("ChangePassFailed", new { @class = "text-danger" })
+                            </span>
+                        </div>
+                        <div class="form-group" style="margin-left:140px; margin-top:50px;">
+                            <button type="submit" class="btn btn-primary">
+                                <i class="glyphicon glyphicon-floppy-disk"></i>
+                                Lưu Thông tin
+                            </button>
+                            <a href="~/" class="btn btn-warning">
+                                Quay lại
+                            </a>
+                        </div>
+                    }
+                }
+            </form>
+        </div>
+    </div>
+</div>

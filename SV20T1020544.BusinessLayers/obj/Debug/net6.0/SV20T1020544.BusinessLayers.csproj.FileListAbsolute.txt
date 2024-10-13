@@ -1,0 +1,17 @@
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\bin\Debug\net6.0\SV20T1020544.BusinessLayers.deps.json
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\bin\Debug\net6.0\SV20T1020544.BusinessLayers.dll
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\bin\Debug\net6.0\SV20T1020544.BusinessLayers.pdb
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\obj\Debug\net6.0\SV20T1020544.BusinessLayers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\obj\Debug\net6.0\SV20T1020544.BusinessLayers.AssemblyInfoInputs.cache
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\obj\Debug\net6.0\SV20T1020544.BusinessLayers.AssemblyInfo.cs
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\obj\Debug\net6.0\SV20T1020544.BusinessLayers.csproj.CoreCompileInputs.cache
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\obj\Debug\net6.0\SV20T1020544.BusinessLayers.dll
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\obj\Debug\net6.0\refint\SV20T1020544.BusinessLayers.dll
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\obj\Debug\net6.0\SV20T1020544.BusinessLayers.pdb
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\obj\Debug\net6.0\ref\SV20T1020544.BusinessLayers.dll
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\bin\Debug\net6.0\SV20T1020544.DataLayers.dll
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\bin\Debug\net6.0\SV20T1020544.DomainModels.dll
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\bin\Debug\net6.0\SV20T1020544.DataLayers.pdb
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\bin\Debug\net6.0\SV20T1020544.DomainModels.pdb
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\obj\Debug\net6.0\SV20T1020544.BusinessLayers.csproj.AssemblyReference.cache
+E:\Lap trinh Web\SV20T1020544\SV20T1020544.BusinessLayers\obj\Debug\net6.0\SV20T1020544.BusinessLayers.csproj.CopyComplete
